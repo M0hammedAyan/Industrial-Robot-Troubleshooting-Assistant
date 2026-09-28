@@ -1,0 +1,14 @@
+# Industrial Robot Troubleshooting Assistant
+# Core dependencies for local Hugging Face RAG
+
+torch>=2.1.0
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+faiss-cpu>=1.7.4
+pymupdf>=1.24.0
+streamlit>=1.28.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+accelerate>=0.27.0
+bitsandbytes>=0.43.0
+pytest>=7.4.0

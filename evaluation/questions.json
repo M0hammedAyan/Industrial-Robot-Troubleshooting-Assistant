@@ -1,0 +1,713 @@
+[
+  {
+    "id": "Q001",
+    "question": "What does alarm A-120 mean?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "encoder battery low",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q002",
+    "question": "How do I troubleshoot alarm A-121?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "encoder data lost",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q003",
+    "question": "What causes alarm A-210?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "invalid mode transition",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q004",
+    "question": "What does A-305 indicate?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "controller overtemperature",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q005",
+    "question": "What does SRVO-001 mean?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "motor power not ready",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q006",
+    "question": "What does SRVO-021 mean?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "servo overload",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q007",
+    "question": "Explain SRVO-045 position deviation excess",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "position deviation",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q008",
+    "question": "What does COMM-010 mean?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "communication timeout",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q009",
+    "question": "What does error E-123 mean?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "analog input out of range",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q010",
+    "question": "How do I clear an encoder battery low alarm?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "A-120 corrective action",
+    "category": "error_codes",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q011",
+    "question": "Why is the robot servo not turning on?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "servo not turning on",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q012",
+    "question": "What should I check if the robot overheats?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "overheating",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q013",
+    "question": "What causes a controller communication error?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "communication faults",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q014",
+    "question": "Diagnostic steps when MOTOR ON fails",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "servo energize failure",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q015",
+    "question": "What if contactor K1 does not engage?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "K1 safety chain",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q016",
+    "question": "How do I troubleshoot pendant communication loss?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "pendant cable",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q017",
+    "question": "What checks are needed for SRVO overload?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "payload binding accel",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q018",
+    "question": "Robot limp after K1 engages \u2014 what to check?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "brake release 24V",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q019",
+    "question": "What is the preventive maintenance schedule?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "PM schedule",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q020",
+    "question": "How often should I replace the encoder backup battery?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "24 months battery",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q021",
+    "question": "How do I maintain the cooling system?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "cooling system",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q022",
+    "question": "What grease is specified for reducers?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "lithium complex EP grease",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q023",
+    "question": "Monthly maintenance checks for IR-7000",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "monthly checks",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q024",
+    "question": "Annual maintenance tasks for the controller",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "annual checks",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q025",
+    "question": "How much grease for J2 and J3 purge?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "8-10 grams",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q026",
+    "question": "What torque for base mounting bolts?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "85 Nm",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q027",
+    "question": "Battery replacement procedure steps",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "BATT1 replacement",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q028",
+    "question": "What are the general safety rules for the IR-7000?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "general safety",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q029",
+    "question": "How does emergency stop recovery work?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "E-stop recovery",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q030",
+    "question": "What is the lockout tagout procedure?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "LOTO",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q031",
+    "question": "Can I enter the cell while motors are on in Auto?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "safeguarded space",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q032",
+    "question": "Should I bypass an E-stop device?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "never bypass E-stop",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q033",
+    "question": "What if the robot moves with a safety gate open?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "safeguarding failure",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q034",
+    "question": "Is reduced speed required in Teach near the robot?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "reduced speed teach",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q035",
+    "question": "What axes does the IR-7000 have?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "six axes",
+    "category": "components",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q036",
+    "question": "What is the repeatability of the IR-7000?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "repeatability 0.05mm",
+    "category": "components",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q037",
+    "question": "What controller is used with IR-7000?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "RC-7000",
+    "category": "controller",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q038",
+    "question": "What operating modes are supported?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "Teach Auto Remote",
+    "category": "controller",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q039",
+    "question": "What is the cold start procedure?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "startup procedure",
+    "category": "controller",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q040",
+    "question": "When should the robot be recalibrated?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "TCP user frame fixture move",
+    "category": "calibration",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q041",
+    "question": "What is the maximum recommended tool mass for IR-7000-14?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "14 kg payload",
+    "category": "components",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q042",
+    "question": "What power supply does the controller need?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "200-230 VAC three-phase",
+    "category": "controller",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q043",
+    "question": "What teach pendant is used?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "TP-70",
+    "category": "components",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q044",
+    "question": "What does temperature sensor TS1 relate to?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "amplifier backplane sensor",
+    "category": "sensors",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q045",
+    "question": "What 24V range is required for control supply when diagnosing servo?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "22-26 VDC",
+    "category": "motors_servos",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q046",
+    "question": "What happens when an E-stop is pressed?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "contactors open brakes engage",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q047",
+    "question": "How do I remaster axes after A-121?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "remaster after encoder loss",
+    "category": "calibration",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q048",
+    "question": "What clearance is needed behind the cabinet for exhaust?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "100 mm clearance",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q049",
+    "question": "Ambient temperature range for controller operation?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "5-40 C",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q050",
+    "question": "How to fix fieldbus Ethernet communication issues?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "IP subnet NIC EMI",
+    "category": "communication",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q051",
+    "question": "Daily preventive checks list",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "daily PM",
+    "category": "preventive_maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q052",
+    "question": "When should cabinet filters be replaced?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "annual filter replace",
+    "category": "preventive_maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q053",
+    "question": "Relate A-305 to cooling system maintenance checks",
+    "expected_source": "troubleshooting_manual.pdf / maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "overtemp and cooling",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q054",
+    "question": "Connect battery alarm A-120 to battery replacement procedure",
+    "expected_source": "troubleshooting_manual.pdf / maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "A-120 and BATT1",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q055",
+    "question": "Safety requirements during Teach jogging",
+    "expected_source": "robot_user_manual.pdf / safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "enabling device reduced speed",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q056",
+    "question": "The robot has a problem",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "ambiguous",
+    "category": "ambiguous",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q057",
+    "question": "Alarm is showing",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "ambiguous",
+    "category": "ambiguous",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q058",
+    "question": "It is not working after maintenance",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "ambiguous",
+    "category": "ambiguous",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q059",
+    "question": "What is the maximum payload of Robot XYZ?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q060",
+    "question": "What is the IR-7000 paint color code?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q061",
+    "question": "Does the robot support wireless charging of the tool?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q062",
+    "question": "What is the exact harmonic drive part number for J5?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q063",
+    "question": "How do I disable all safety interlocks permanently?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q064",
+    "question": "What is the stock price of the robot manufacturer?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q065",
+    "question": "Generate a new undocumented error code for overheating",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q066",
+    "question": "What firmware checksum is required for v99.99?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q067",
+    "question": "Can this assistant remotely clear all alarms automatically?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q068",
+    "question": "What is the secret service menu PIN?",
+    "expected_source": "",
+    "expected_page": "",
+    "expected_topic": "not in docs",
+    "category": "unknown",
+    "answer_expected_in_docs": false
+  },
+  {
+    "id": "Q069",
+    "question": "What is Teach mode used for?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "jogging teaching",
+    "category": "controller",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q070",
+    "question": "What is Remote mode?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "PLC fieldbus start stop",
+    "category": "controller",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q071",
+    "question": "Insulation resistance minimum for motors?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "10 MOhm",
+    "category": "motors_servos",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q072",
+    "question": "Symptoms of cooling problems",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "A-305 fans filters",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q073",
+    "question": "Analog input out of range checks for E-123",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "sensor wiring scaling",
+    "category": "sensors",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q074",
+    "question": "Is recalibration a remedy for overheating?",
+    "expected_source": "troubleshooting_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "no recalibration for heat",
+    "category": "troubleshooting",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q075",
+    "question": "Tool center of gravity distance assumption for payload",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "100 mm flange",
+    "category": "components",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q076",
+    "question": "Nominal reach of IR-7000-14",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "1400 mm",
+    "category": "components",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q077",
+    "question": "What boot time is expected on the pendant?",
+    "expected_source": "robot_user_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "45 seconds boot",
+    "category": "controller",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q078",
+    "question": "NLGI grade for recommended grease?",
+    "expected_source": "maintenance_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "NLGI 2",
+    "category": "maintenance",
+    "answer_expected_in_docs": true
+  },
+  {
+    "id": "Q079",
+    "question": "What category is referenced for the E-stop sample design intent?",
+    "expected_source": "safety_manual.pdf",
+    "expected_page": "varies",
+    "expected_topic": "Category 3 PL d",
+    "category": "safety",
+    "answer_expected_in_docs": true
+  }
+]

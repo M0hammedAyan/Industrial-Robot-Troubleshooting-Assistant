@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.env
+logs/*.log
+*.log
+.DS_Store
+.streamlit/secrets.toml
+huggingface_cache/
+.cache/
+*.egg-info/
+dist/
+build/

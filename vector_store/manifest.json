@@ -1,0 +1,32 @@
+{
+  "created_at": "2026-09-28T18:28:56.174279+00:00",
+  "num_vectors": 3513,
+  "dimension": 384,
+  "documents": [
+    "710-943-00_UR3e_User_Manual_en_Global.pdf",
+    "E-Series_e-Series_en_Global.pdf",
+    "e-Series_Service_Manual_en.pdf",
+    "ErrorCodes.pdf",
+    "i590-e-06_robot_safety.pdf",
+    "maintenance_manual.pdf",
+    "robot_user_manual.pdf",
+    "safety_manual.pdf",
+    "Service_Manual_UR-Series_en.pdf",
+    "troubleshooting_manual.pdf",
+    "UR Calibration Manual Combined 4.pdf",
+    "UR Calibration Manual Combined.pdf",
+    "UR10e_User_Manual_en_Global.pdf",
+    "UR12e_User_Manual_en_Global.pdf",
+    "UR16e_User_Manual_en_Global.pdf",
+    "UR18_User_Manual_en_Global.pdf",
+    "UR20_UR20_en_Global.pdf",
+    "UR20_User_Manual_en_Global.pdf",
+    "UR30_User_Manual_en_Global.pdf",
+    "UR3e_User_Manual_en_Global.pdf",
+    "UR5e_User_Manual_en_Global.pdf",
+    "UR7e_User_Manual_en_Global.pdf",
+    "UR8 Long_User_Manual_en_Global.pdf",
+    "User_Manual_en_Global.pdf"
+  ],
+  "fingerprint": "a48307241f8fefccf4c5c89b99d633a1e8133d806a07b3ddb3b5dfab42a69e37"
+}
